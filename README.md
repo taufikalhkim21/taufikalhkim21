@@ -23,9 +23,8 @@ Here are some ideas to get you started:
 ![anime](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHVuZGc2ODJucXNjaXBubmMzYTBvNXBzanAyZzMydG4zNzNnMGszMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Ev0Ari2Nd9io/giphy.gif)-->
 
 
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+
+![taufikalhkim21](img/github-header-banner.png)
 
 ###
 
@@ -43,9 +42,8 @@ Here are some ideas to get you started:
 
 ###
 
-![taufikalhkim21](img/github-header-banner.png)
 
-###
+
 
 <h3 align="left">👩‍💻  About Me</h3>
 
