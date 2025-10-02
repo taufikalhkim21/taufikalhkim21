@@ -1,26 +1,6 @@
 
 
 
-<!--
-**taufikalhkim21/taufikalhkim21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m studying ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- #### I’m studying ...
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-
-- #### My social media ...
-![https://instagram.com/taufikalhkim21_](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.tiktok.com/@allday2106_](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=whitehttps://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)-->
-
-
 
 
 
@@ -45,7 +25,7 @@ Here are some ideas to get you started:
 
 
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻 About Me</h3>
 
 ###
 
@@ -75,4 +55,8 @@ Here are some ideas to get you started:
 
 ###
 
+<div align="center">
+
 ![anime](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHVuZGc2ODJucXNjaXBubmMzYTBvNXBzanAyZzMydG4zNzNnMGszMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Ev0Ari2Nd9io/giphy.gif)
+
+</div>
